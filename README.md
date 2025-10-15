@@ -1,4 +1,4 @@
-# Ad-recommendation-system-using-GenAI
+# AdRec
 
 # Project Documentation
 
